@@ -1,4 +1,4 @@
-Contains important scripts (currently just BIB reducing n-tupleizer) and plots contained in paper, with extras
+Contains important scripts (currently just BIB reducing n-tupleizer) and plots contained in paper, with extras. Can examine distributions of constant mass or constant lifetime.
 
 Note on plot file names: m*_d* refers to mass and decay width. Increasing decay with number indicates smaller lifetime.
 
